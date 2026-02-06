@@ -1,0 +1,45 @@
+{
+  "name": "hemoscan-ai",
+  "version": "1.0.0",
+  "description": "Revolutionary AI-powered anemia detection platform with hybrid ML+AI analysis",
+  "author": "HemoScan AI Team",
+  "license": "MIT",
+  "keywords": [
+    "medical-ai",
+    "anemia-detection",
+    "machine-learning",
+    "tensorflow",
+    "gemini-ai",
+    "healthcare",
+    "blood-analysis",
+    "ridge-classifier"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemoscan-ai/hemoscan"
+  },
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "dependencies": {
+    "@google/genai": "^1.40.0",
+    "@supabase/supabase-js": "^2.95.3",
+    "@tensorflow/tfjs": "^4.22.0",
+    "papaparse": "^5.5.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "recharts": "^3.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/papaparse": "^5.5.2",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
