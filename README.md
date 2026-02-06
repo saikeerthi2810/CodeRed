@@ -12,7 +12,6 @@
 
 **AI-Powered Blood Analysis | Machine Learning Classification | Real-Time Risk Assessment**
 
-[🚀 Live Demo](#) | [📖 Documentation](#features) | [🎥 Video Demo](#)
 
 </div>
 
