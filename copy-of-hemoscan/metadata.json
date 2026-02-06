@@ -1,7 +1,0 @@
-{
-  "name": "Copy of HemoScan",
-  "description": "A modern, medical-grade anemia detection and diagnostic dashboard for healthcare professionals.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
